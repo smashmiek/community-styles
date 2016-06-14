@@ -5,13 +5,13 @@ $icomoon-font-path: '../fonts/';
 
 // bower:scss
 @import "node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
-//@import "~id-icons/style.scss";
+@import "node_modules/style.scss";
 // endbower
 
 @import "fonts";
 @import "type";
 
-@import "style-kit"; //styles used only in the style kit documentation
+//@import "style-kit"; //styles used only in the style kit documentation
 
 // Alerts
 .alert {

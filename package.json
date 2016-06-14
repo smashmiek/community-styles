@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap-sass": "^3.3.6"
+  },
+  "devDependencies": {
+    "id-icons": "^1.0.0"
   }
 }

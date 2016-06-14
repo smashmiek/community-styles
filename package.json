@@ -1,6 +1,6 @@
 {
   "name": "community-styles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Styles and assets for .id Community development",
   "main": "index.js",
   "scripts": {
@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap-sass": "^3.3.6"
-  },
-  "devDependencies": {
+    "bootstrap-sass": "^3.3.6",
     "id-icons": "^1.0.0"
   }
 }

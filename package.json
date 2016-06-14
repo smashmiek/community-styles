@@ -1,6 +1,6 @@
 {
   "name": "community-styles",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Styles and assets for .id Community development",
   "main": "index.js",
   "scripts": {

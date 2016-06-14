@@ -4,10 +4,8 @@ $icomoon-font-path: '../fonts/';
 
 @import "variables";
 
-// bower:scss
 @import "node_modules/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 @import "node_modules/style.scss";
-// endbower
 
 @import "fonts";
 @import "type";
